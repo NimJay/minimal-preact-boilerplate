@@ -1,0 +1,8 @@
+/*
+This CSS file is meant to contain CSS that is used everywhere.
+This CSS file is loaded when the user first visits the app.
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
